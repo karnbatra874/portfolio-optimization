@@ -1,5 +1,5 @@
 # AI-Powered Investment Intelligence Platform
-
+hi this is karan
 Decision-support platform for NIFTY-50 historical market data (2000–2021). Combines technical feature engineering, ML-based forward-return prediction, risk analytics, and profile-based portfolio optimization — all computed deterministically from OHLCV data.
 
 ## Project Structure
