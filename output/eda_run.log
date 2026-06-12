@@ -48,14 +48,14 @@ INFO: Saved figure: 14_portfolio_allocations.png
   plt.savefig(path, dpi=FIG_DPI, bbox_inches="tight", facecolor="white")
 INFO: Saved figure: 15_portfolio_equity_curves.png
 INFO: Saved table: portfolio_weights_all_profiles.csv
-INFO: Saved report: /home/priyansh/Desktop/New Folder 1/reports/eda_report.md
+INFO: Saved report: /home/priyansh/Desktop/New Folder 1/output/eda_report.md
 
 ============================================================
   EDA COMPLETE
 ============================================================
-  Figures : /home/priyansh/Desktop/New Folder 1/reports/figures  (15 PNG files)
-  Tables  : /home/priyansh/Desktop/New Folder 1/reports/tables
-  Report  : /home/priyansh/Desktop/New Folder 1/reports/eda_report.md
+  Figures : /home/priyansh/Desktop/New Folder 1/output/figures  (15 PNG files)
+  Tables  : /home/priyansh/Desktop/New Folder 1/output/tables
+  Report  : /home/priyansh/Desktop/New Folder 1/output/eda_report.md
 ============================================================
 
-To use in PDF: open reports/eda_report.md and insert figures from reports/figures/
+To use in PDF: open output/eda_report.md and insert figures from output/figures/

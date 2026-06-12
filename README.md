@@ -69,7 +69,7 @@ Generates Conservative, Balanced, and Aggressive portfolio allocations with Shar
 python eda.py
 ```
 
-Generates PDF-ready figures (`reports/figures/`), summary tables (`reports/tables/`), and narrative content (`reports/eda_report.md`) for the technical report.
+Generates PDF-ready figures (`output/figures/`), summary tables (`output/tables/`), and narrative content (`output/eda_report.md`) for the technical report.
 
 ## Modules Overview
 
